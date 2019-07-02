@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         // Master
         // Branch01
+        // Branch02
         setContentView(R.layout.activity_main);
     }
 }
