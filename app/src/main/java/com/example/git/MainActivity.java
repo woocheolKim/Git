@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         // Branch01
         // Branch02
         setContentView(R.layout.activity_main);
+
+        String str = "Master";
     }
 }
